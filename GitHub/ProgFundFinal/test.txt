@@ -1,0 +1,17 @@
+1.Name the player that wears #56?
+Expected: Julius Peppers
+Actual: Julius Peppers
+
+
+2.Name the #____ of Jordy Nelson?
+Expected: 87
+Actual: 87
+
+
+3.Who is The Player that wears #52?
+Expected: Clay Matthews
+Actual: Clay Matthews
+
+4.Who is The Player that wears #27
+Expected: Eddie Lacy
+Actual: Eddie Lacy

@@ -1,0 +1,6 @@
+My Project will prompt you to know about the Packers it will ask
+you multiple questions about them from naming players(Capitols matter) and or
+choosing what number they have! At the beginning you will be propmted to choose
+Packers or vikings(If you choose Vikings you will regret it.).Then
+if you choose the right answer you will move on to the next question if you are
+wrong you will not.
